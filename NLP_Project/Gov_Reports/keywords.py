@@ -17,7 +17,7 @@ def walkFile(file):
         for f in files:
           print(os.path.join(root, f))
 def main():
-    walkFile("C:/Users/yeqigang/OneDrive/python_go/jieba_go/govReports/")
+    walkFile("./Reports_text/")
 
 
 print ("2007政府工作报告_温家宝")
